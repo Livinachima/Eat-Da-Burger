@@ -1,0 +1,19 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "burger creation app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Livinachima/Eat-Da-Burger.git"
+  },
+  "author": "Livina Chima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Livinachima/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/Livinachima/Eat-Da-Burger#readme"
+}
